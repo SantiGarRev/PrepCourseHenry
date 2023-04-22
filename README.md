@@ -1,2 +1,1 @@
-# PrepCourseHenry
-Repositorio con README
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde GIthub a mi terminal
